@@ -1,1 +1,0 @@
-myfipy (My Finances in Python) is a lighweight utility for determining your future net worth in order to help plan your savings. It reads in a CSV file called "transactions.csv" and returns a plot of your net worth over time. Transactions can be one time or recurring on the basis of various periods.

@@ -16,7 +16,8 @@ from matplotlib.patches import StepPatch
 plt.close("all")
 import pandas as pd
 
-transactions = pd.read_csv("transactions.csv")
+filename = 'transactions_example'
+transactions = pd.read_csv(f'{filename}.csv')
 
 # Convert date strings to datetime objects
 transactions['Start Date'] = pd.to_datetime(transactions['Start Date'], infer_datetime_format=True)
@@ -67,4 +68,5 @@ plt.ylabel("Money ($)")
 plt.xlabel("Date")
 plt.grid(True, which='both', axis='both')
 plt.xticks(rotation = 45)
+plt.savefig(filename)
 plt.show()
