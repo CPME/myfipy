@@ -1,0 +1,16 @@
+Category,Metric,Value,Start Date,End Date,Period,Interest Rate,Interest Rate Period
+Income,Paycheck Amount,1200,3/12/2022,3/11/2026,week,7.3,year
+Income,401k,1666,3/12/2022,3/11/2026,month,,
+Asset,401k,21000,3/12/2022,3/12/2022,once,,
+Asset,Chase Checking Account,20000,3/12/2022,3/12/2022,once,,
+Asset,Car,20000,3/12/2022,3/12/2022,once,-15,year
+Expense,Groceries,200,3/12/2022,3/11/2026,month,2,year
+Expense,Food & Drink,100,3/12/2022,3/11/2026,month,2,year
+Expense,Rent,1700,3/12/2022,3/11/2026,month,5,year
+Expense,Electricity,60,3/12/2022,3/11/2026,month,2,year
+Expense,Internet,750,3/12/2022,3/11/2026,year,2,year
+Expense,Car Insurance,153,3/12/2022,3/11/2026,month,2,year
+Expense,Cell Phone,46,3/12/2022,3/11/2026,month,2,year
+Expense,Extra Spending,250,3/12/2022,3/11/2026,month,2,year
+Expense,Gasoline,60,3/12/2022,3/11/2026,month,2,year
+Expense,Spotify,14,3/12/2022,3/11/2026,month,2,year
